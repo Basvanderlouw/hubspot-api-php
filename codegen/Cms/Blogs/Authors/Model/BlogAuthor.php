@@ -129,8 +129,8 @@ class BlogAuthor implements ModelInterface, ArrayAccess
         'avatar' => 'avatar',
         'display_name' => 'displayName',
         'deleted_at' => 'deletedAt',
-        'created_at' => 'createdAt',
-        'updated_at' => 'updatedAt'
+        'created_at' => 'created',
+        'updated_at' => 'updated'
     ];
 
     /**

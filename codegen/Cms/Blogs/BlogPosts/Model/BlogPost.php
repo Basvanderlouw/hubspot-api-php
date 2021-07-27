@@ -275,9 +275,9 @@ class BlogPost implements ModelInterface, ArrayAccess
         'url' => 'url',
         'publish_date' => 'publishDate',
         'deleted_at' => 'deletedAt',
-        'created_at' => 'createdAt',
+        'created_at' => 'created',
         'published' => 'published',
-        'updated_at' => 'updatedAt'
+        'updated_at' => 'updated'
     ];
 
     /**
